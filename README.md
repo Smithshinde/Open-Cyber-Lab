@@ -48,7 +48,7 @@ This project involves creating a virtual network using free and open-source tool
 
 ---
 
-**4: Log Collection and Management**
+**4: Log Collection and Management (WIP)**
 - Install Syslog-ng or Graylog.
 - Centralize logs from all VMs.
 
@@ -57,7 +57,7 @@ This project involves creating a virtual network using free and open-source tool
 
 ---
 
-**5: SIEM Integration**
+**5: SIEM Integration (WIP**
 - Configure the ELK Stack for SIEM.
 - Create dashboards and alerts.
 
@@ -66,7 +66,7 @@ This project involves creating a virtual network using free and open-source tool
 
 ---
 
-**6: Threat Intelligence Integration**
+**6: Threat Intelligence Integration (WIP)**
 - Integrate threat intelligence with MISP or OTX.
 - Correlate logs with external threat data.
 
@@ -75,7 +75,7 @@ This project involves creating a virtual network using free and open-source tool
 
 ---
 
-**7: Incident Response Procedure**
+**7: Incident Response Procedure (WIP)**
 - Create an incident response process.
 - Simulate attack scenarios and document responses.
 
