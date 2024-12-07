@@ -57,7 +57,7 @@ This project involves creating a virtual network using free and open-source tool
 
 ---
 
-**5: SIEM Integration (WIP**
+**5: SIEM Integration (WIP)**
 - Configure the ELK Stack for SIEM.
 - Create dashboards and alerts.
 
